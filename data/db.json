@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "learn React",
+      "isFav": true
+    },
+    {
+      "id": "3",
+      "title": "learn RaspberryPi",
+      "isFav": false
+    },
+    {
+      "id": "4",
+      "title": "Create crazy things",
+      "isFav": true
+    },
+    {
+      "id": 2365,
+      "title": "Create a Game",
+      "isFav": false
+    }
+  ]
+}
